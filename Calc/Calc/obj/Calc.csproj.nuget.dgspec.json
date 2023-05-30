@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DYNAMICOS\\Desktop\\Calc\\Calc\\Calc.csproj": {}
+    "C:\\Users\\DYNAMICOS\\Desktop\\dz-1\\Calc\\Calc\\Calc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DYNAMICOS\\Desktop\\Calc\\Calc\\Calc.csproj": {
+    "C:\\Users\\DYNAMICOS\\Desktop\\dz-1\\Calc\\Calc\\Calc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DYNAMICOS\\Desktop\\Calc\\Calc\\Calc.csproj",
+        "projectUniqueName": "C:\\Users\\DYNAMICOS\\Desktop\\dz-1\\Calc\\Calc\\Calc.csproj",
         "projectName": "Calc",
-        "projectPath": "C:\\Users\\DYNAMICOS\\Desktop\\Calc\\Calc\\Calc.csproj",
+        "projectPath": "C:\\Users\\DYNAMICOS\\Desktop\\dz-1\\Calc\\Calc\\Calc.csproj",
         "packagesPath": "C:\\Users\\DYNAMICOS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DYNAMICOS\\Desktop\\Calc\\Calc\\obj\\",
+        "outputPath": "C:\\Users\\DYNAMICOS\\Desktop\\dz-1\\Calc\\Calc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
